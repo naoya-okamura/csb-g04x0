@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://naoya-okamura.github.io/csb-g04x0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://naoya-okamura.github.io/csb-g04x0/static/js/main.4444a0db.chunk.js",
+    "main.js.map": "https://naoya-okamura.github.io/csb-g04x0/static/js/main.4444a0db.chunk.js.map",
+    "runtime-main.js": "https://naoya-okamura.github.io/csb-g04x0/static/js/runtime-main.723b1766.js",
+    "runtime-main.js.map": "https://naoya-okamura.github.io/csb-g04x0/static/js/runtime-main.723b1766.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://naoya-okamura.github.io/csb-g04x0/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://naoya-okamura.github.io/csb-g04x0/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://naoya-okamura.github.io/csb-g04x0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://naoya-okamura.github.io/csb-g04x0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://naoya-okamura.github.io/csb-g04x0/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.723b1766.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4444a0db.chunk.js"
+  ]
+}
